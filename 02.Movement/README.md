@@ -1,0 +1,2 @@
+This second Project was also interesting as I 
+This was one of the easier ones, as the I just had to recreate and fill colours and rectangles, the only new and exciting part was learning how to rotate one of the fingers to resemble a thumb.

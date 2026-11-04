@@ -1,0 +1,3 @@
+This first project was a drawing meant to resemble the dark coloured held fist emoji, meant to resemble the BLM movement, and how people of that race face social oppression by indicating via symbolic gestures their discomfort in society, this replica is the inspiration for the rest of my projects too. - 
+
+This was one of the easier ones, as the I just had to recreate and fill colours and rectangles, the only new and exciting part was learning how to rotate one of the fingers to resemble a thumb.
